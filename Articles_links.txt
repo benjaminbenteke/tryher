@@ -1,0 +1,87 @@
+
+
+    Deploy a machine learning model using flask
+
+    Designing a Machine Learning model and deploying it using Flask on Heroku
+
+    Deploying Models to Flask
+
+    Deploy Machine Learning Models for Free
+
+    Turning Machine Learning Models into APIs in Python
+
+    Deploy a Machine Learning Model with Flask
+
+    How to build an API for a machine learning model in 5 minutes using Flask
+
+    Tutorial to deploy Machine Learning models in Production as APIs (using Flask)
+
+    Tutorial: Deploying a machine learning model to the web
+
+    The brilliant beginner’s guide to model deployment
+
+    A Flask API for serving scikit-learn models
+
+    Turn any Jupyter notebook into a REST API
+
+    A comprehensive guide to putting a machine learning model in production using Flask, Docker, and Kubernetes
+
+    Deploy a Python machine learning model as a web service
+
+    Python Machine Learning Prediction with a Flask REST API
+
+    A Simple Way to Deploy Any Machine Learning
+
+    Web Development of NLP Model in Python & Deployed in Flask
+
+    Deploying Machine Learning model in production
+
+    How to Move Your Machine Learning Model to Production
+
+    Deploy Deep Learning models using Flask
+
+    Deploy Your First Deep Learning Model On Kubernetes With Python, Keras, Flask, and Docker
+
+    THE FRESHER’S GUIDE TO DEPLOYING A MACHINE LEARNING MODEL USING FLASK AND KERAS.
+
+    DEPLOY YOUR MACHINE LEARNING MODEL AS A REST API ON AWS
+
+    Deploying Machine Learning Models is Hard, But It Doesn’t Have to Be
+
+    How To Deploy Keras Deep Learning Models With Flask
+
+    Deploying Keras Model in Production using Flask
+
+    Deploying the Machine Learning model using Keras and Flask
+
+    How to deploy Keras model to production using flask
+
+    Publishing Machine Learning API With Python Flask
+
+    Deploying Python ML Models with Flask, Docker and Kubernetes
+
+    Deploy your Machine Learning Model as REST-API in Less than 1 hour with Scikit-Learn and Docker
+
+    Deploying Deep Learning Models On Web And Mobile
+
+    Deploying ML models using flask and flasgger
+
+    Serving with the PyTorch model – Flask
+
+    How to deploy Machine Learning models with TensorFlow. Part 1 — make your model ready for serving
+
+    Deploy your machine learning models with tensorflow serving and kubernetes
+
+    A guide to deploying Machine/Deep Learning model(s) in Production
+
+    How to deploy TensorFlow models to production using TF Serving
+
+    Training and deploying machine learning models on GCP ML-Engine using Tensorflow Estimators
+
+    Overview of Different Approaches to Deploying Machine Learning Models in Production
+
+    Serverless Machine Learning
+
+    How To Build a Deep Learning Model to Predict Employee Retention Using Keras and TensorFlow
+
+    How to Deploy Machine Learning Models

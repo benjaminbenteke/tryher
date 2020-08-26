@@ -1,0 +1,9 @@
+https://github.com/sauravk90/ML-Model-Flask-Deployment
+https://github.com/deepakiim/Deploy-machine-learning-model
+https://github.com/emmapraise/deploying-ml-model-using-flask
+https://github.com/elliebirbeck/model-deployment-flask
+https://github.com/ashishpatel26/Machine-Learning-Web-Apps
+https://github.com/mickwar/ml-deploy
+https://github.com/mtobeiyf/keras-flask-deploy-webapp
+https://github.com/antoinemertz/deploy-ml-flask
+https://github.com/pratos/flask_api/blob/master/notebooks/ML%2BModels%2Bas%2BAPIs%2Busing%2BFlask.md
